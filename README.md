@@ -1,6 +1,6 @@
 # MDUT Relay
 
-MDUT Relay 是为 [MDUT (Multiple Database Utilization Tools)](https://github.com/Ch1ngg/mdut) 专门设计的独立网络中转辅助工具。
+MDUT Relay 是为 [MDUT (Multiple Database Utilization Tools)](https://github.com/SafeGroceryStore/MDUT) 专门设计的独立网络中转辅助工具。
 
 ## 为什么需要它？
 
